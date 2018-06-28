@@ -13,5 +13,6 @@ int main()
 	cout<<sequence.numberOf('C')<<" 'C' in the sequence."<<endl; 
 	cout<<sequence.numberOf('G')<<" 'G' in the sequence."<<endl;
 	cout<<sequence.longestConsecutive()<<endl;
+	cout<<sequence.longestRepeated()<<endl;
 	return 0;
 }
